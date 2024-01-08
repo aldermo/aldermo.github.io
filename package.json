@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@astrojs/rss": "4.0.1",
-		"astro": "4.0.8",
+		"astro": "4.1.1",
 		"sharp": "^0.33.1"
 	},
 	"devDependencies": {
